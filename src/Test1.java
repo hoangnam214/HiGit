@@ -5,6 +5,7 @@ public class Test1 {
 		System.out.println("You are WINNER");
 		System.out.println("1");
 		System.out.println("2");
+		System.out.println("3");
 	}
 
 }
